@@ -1,0 +1,2 @@
+F:/music_app-Thanhdp/music_app-Thanhdp/android/app/.cxx/Debug/3c636155/x86/CMakeFiles/edit_cache.dir
+F:/music_app-Thanhdp/music_app-Thanhdp/android/app/.cxx/Debug/3c636155/x86/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+C:/Users/TUANTHANH/StudioProjects/Music_app/android/app/.cxx/Debug/503w4m3h/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/TUANTHANH/StudioProjects/Music_app/android/app/.cxx/Debug/503w4m3h/arm64-v8a/CMakeFiles/rebuild_cache.dir
